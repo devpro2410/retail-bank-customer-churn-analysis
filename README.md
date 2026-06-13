@@ -22,14 +22,15 @@ notebook.
 ## Dashboard
 
 An interactive Tableau dashboard ties the findings together — churn by
-geography, product/activity, demographics and balance — with a shared filter to
-re-slice every view at once. Build notes (calculated fields, worksheet layout)
-are in [`tableau/DASHBOARD.md`](tableau/DASHBOARD.md).
+geography, demographic risk (geography × gender), age, and product holdings ×
+activity — with a shared age-band filter that re-slices every view at once.
 
-<!-- After publishing to Tableau Public, add the live link and a preview image here:
-[**▶ Explore the live dashboard**](LINK)
-![Customer churn dashboard](tableau/dashboard.png)
--->
+[**▶ Explore the live dashboard**](https://public.tableau.com/app/profile/sivansh.satpathy/viz/RetailBankCustomerChurnAnalysis/Dashboard1)
+
+![Retail bank customer churn dashboard](tableau/dashboard.png)
+
+Build notes (calculated fields, worksheet layout) are in
+[`tableau/DASHBOARD.md`](tableau/DASHBOARD.md).
 
 ## Recommendations
 
