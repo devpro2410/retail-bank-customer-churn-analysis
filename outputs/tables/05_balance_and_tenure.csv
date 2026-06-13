@@ -1,0 +1,5 @@
+balance_band,customers,churned,churn_rate_pct,avg_tenure
+zero,3617,500.0,13.8,5.1
+under_100k,1584,326.0,20.6,4.9
+100k-150k,3830,987.0,25.8,5.0
+over_150k,969,224.0,23.1,5.0

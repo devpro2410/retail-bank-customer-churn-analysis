@@ -1,0 +1,10 @@
+geography,gender,customers,churned,churn_rate_pct,avg_balance
+France,,5014,810.0,16.2,62093.0
+France,Female,2261,460.0,20.3,60323.0
+France,Male,2753,350.0,12.7,63546.0
+Germany,,2509,814.0,32.4,119730.0
+Germany,Female,1193,448.0,37.6,119146.0
+Germany,Male,1316,366.0,27.8,120260.0
+Spain,,2477,413.0,16.7,61818.0
+Spain,Female,1089,231.0,21.2,59862.0
+Spain,Male,1388,182.0,13.1,63353.0

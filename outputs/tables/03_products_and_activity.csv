@@ -1,0 +1,7 @@
+products,membership,customers,churned,churn_rate_pct
+1,active,2563,485.0,18.9
+1,inactive,2521,924.0,36.7
+2,active,2446,136.0,5.6
+2,inactive,2144,212.0,9.9
+3+,active,142,114.0,80.3
+3+,inactive,184,166.0,90.2

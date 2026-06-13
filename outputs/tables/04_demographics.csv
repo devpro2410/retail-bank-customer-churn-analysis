@@ -1,0 +1,8 @@
+dimension,segment,customers,churned,churn_rate_pct
+age_band,50-59,869,487.0,56.0
+age_band,40-49,2618,806.0,30.8
+age_band,60+,526,147.0,27.9
+age_band,30-39,4346,473.0,10.9
+age_band,<30,1641,124.0,7.6
+gender,Female,4543,1139.0,25.1
+gender,Male,5457,898.0,16.5

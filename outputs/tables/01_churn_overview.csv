@@ -1,0 +1,2 @@
+total_customers,churned_customers,churn_rate_pct,avg_age,avg_balance,pct_active,pct_german
+10000,2037.0,20.4,38.9,76486.0,51.5,25.1
